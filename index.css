@@ -29,6 +29,10 @@
     border: none;
 
 }
+.secondary:hover{
+    background: #dddcdc;
+    box-shadow: 1px 1px 1px rgba(1, 1, 1, 1);
+}
 .link {
     background: transparent;
     border-radius: 5px;

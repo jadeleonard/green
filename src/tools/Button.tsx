@@ -28,7 +28,8 @@
 
     border: none;
     &:hover{
-        
+      background: #dddcdc;
+    box-shadow: 1px 1px 1px rgba(1, 1, 1, 1);
     }
     }
     & .link {
@@ -73,4 +74,8 @@
         )
     }
 
+
+    export{
+        Button
+    }
 
