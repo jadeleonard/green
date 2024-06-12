@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-
+import clsx from '../../node_modules/clsx/clsx';
 type InputProps = {
     id: string;
     className?: string;
